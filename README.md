@@ -22,7 +22,7 @@ The analysis is about using machine Learning and neural network knowledge and th
 
 #### Compiling, Training, and Evaluating the Model
 
-1. How many neurons, layers, and activation functions did you select for your neural network model, and why?
+1. Used neural network model which has two hidden layers with 80 and 30 neurons respectively.I used ReLU activation function for the hidden layers to enhance the training process, ReLU function is ideal for looking at positive non linear input data for classification and regression and Sigmond for binary output layer, Sigmond function values are normalized to a probability of zero and one.
 
 2. The model performance is about 73% which below theTtarget Model performance which is 75%
 
