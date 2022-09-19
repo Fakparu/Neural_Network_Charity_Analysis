@@ -26,3 +26,7 @@ The analysis is about using machine Learning and neural network knowledge and th
 
 2. The model performance is about 73% which below theTtarget Model performance which is 75%
 
+
+## Summary
+In summary, the deep learning model result is about 73% approximately. Several other methods were utilized to optimize the performance, the result did not exceed the target model performance of 75%.
+I will recommend on using the Random Forest Model, which is a different model to solve the classification problem, and justification. Random Forest Model is able to achieve comparable predictive accuracy on large tubular data with less code and faster performance.
