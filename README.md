@@ -12,7 +12,7 @@ The analysis is about using machine Learning and neural network knowledge and th
 
 ## Results
 
-### Data Preprocessing
+#### Data Preprocessing
 
 1. For this model , the target is the binary feature ‘IS_SUCCESSFUL’. It shows whether the fund was used effectively.
 
@@ -20,7 +20,7 @@ The analysis is about using machine Learning and neural network knowledge and th
 
 3. “EIN” and “NAME” are identification columns, they are neither targets nor features and was removed from the input data
 
-o	Compiling, Training, and Evaluating the Model
+#### Compiling, Training, and Evaluating the Model
 
 1. How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
