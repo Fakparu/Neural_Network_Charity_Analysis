@@ -9,3 +9,5 @@ The analysis is about using machine Learning and neural network knowledge and th
 2.	Compile, Train, and Evaluate the Model
 3.	Optimize the Model
 4.	A Written Report on the Neural Network Model
+
+## Results
